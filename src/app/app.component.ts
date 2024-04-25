@@ -16,7 +16,7 @@ import { HttpClientModule } from '@angular/common/http';
   styleUrl: './app.component.css'
 })
 export class AppComponent implements OnInit {
-  title = 'sidl';
+  title = 'dma';
   private _jsonURL = 'assets/perguntas_dma.json';
   perguntas: any = [];
   totalPerguntas = 0;
