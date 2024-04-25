@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "pergunta": "",
+    "tipoPergunta": "singleAnswer | multipleAnswer",
+    "alternativas": [
+      {
+        "id": "a",
+        "alternativa": "",
+        "selecionou": ""
+      },
+      {
+        "id": "b",
+        "alternativa": "",
+        "selecionou": ""
+      },
+      {
+        "id": "c",
+        "alternativa": "",
+        "selecionou": ""
+      },
+      {
+        "id": "d",
+        "alternativa": "",
+        "selecionou": ""
+      }
+    ],
+    "respostaCorreta": "",
+    "acertou": "true | fale"
+  }
+]
