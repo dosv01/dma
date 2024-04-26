@@ -1,110 +1,169 @@
 [
+    {
+      "id": 0,
+      "pergunta": "The Delivery Lead should expect to receive the following from the Opportunity Team: (Risk,Solution_Contingency.pdf – pag.13)",
+      "tipoPergunta": "singleAnswer",
+      "alternativas": [
+        {
+          "id": "a",
+          "alternativa": "A high quality risk assessment",
+          "selecionou": ""
+        },
+        {
+          "id": "b",
+          "alternativa": "For each High/Above Normal risk, a mitigation plan with ownership (by named individuals)",
+          "selecionou": ""
+        },
+        {
+          "id": "c",
+          "alternativa": "Solution Contingency assigned for risks that cannot be mitigated prior to contracting",
+          "selecionou": ""
+        },
+        {
+          "id": "d",
+          "alternativa": "All of the above",
+          "selecionou": ""
+        },
+        {
+          "id": "e",
+          "alternativa": "None of the above",
+          "selecionou": ""
+        }
+      ],
+      "respostaCorreta": "d",
+      "acertou": ""
+    },
   {
-    "id": 0,
-    "pergunta": "The Delivery Lead should expect to receive the following from the Opportunity Team: (Risk,Solution_Contingency.pdf – pag.13)",
+    "id": 1,
+    "pergunta": "What is not a mandatory work product for System Integration Projects?",
     "tipoPergunta": "singleAnswer",
     "alternativas": [
       {
         "id": "a",
-        "alternativa": "A high quality risk assessment",
+        "alternativa": "Solution Plan",
         "selecionou": ""
       },
       {
         "id": "b",
-        "alternativa": "For each High/Above Normal risk, a mitigation plan with ownership (by named individuals)",
+        "alternativa": "Management Plan",
         "selecionou": ""
       },
       {
         "id": "c",
-        "alternativa": "Solution Contingency assigned for risks that cannot be mitigated prior to contracting",
+        "alternativa": "Financial Management Plan",
         "selecionou": ""
       },
       {
         "id": "d",
-        "alternativa": "All of the above",
+        "alternativa": "Deliverables Responsibility Matrix",
         "selecionou": ""
       },
       {
         "id": "e",
-        "alternativa": "None of the above",
+        "alternativa": "Status Report",
+        "selecionou": ""
+      }
+    ],
+    "respostaCorreta": "c",
+    "acertou": ""
+  },
+    {
+    "id": 2,
+    "pergunta": "What is the biggest part of the TRUST equation?",
+    "tipoPergunta": "singleAnswer",
+    "alternativas": [
+      {
+        "id": "a",
+        "alternativa": "Credibility",
+        "selecionou": ""
+      },
+      {
+        "id": "b",
+        "alternativa": "Intimacy",
+        "selecionou": ""
+      },
+      {
+        "id": "c",
+        "alternativa": "Self-Orientation",
+        "selecionou": ""
+      },
+      {
+        "id": "d",
+        "alternativa": "Reliability",
+        "selecionou": ""
+      },
+      {
+        "id": "e",
+        "alternativa": "There's a typo in the question (missing option)",
         "selecionou": ""
       }
     ],
     "respostaCorreta": "d",
     "acertou": ""
-  }
-{
-  "id": 1,
-  "pergunta": "What is not a mandatory work product for System Integration Projects?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Solution Plan",
-      "selecionou": ""
-    },
-    {
-      "id": "b",
-      "alternativa": "Management Plan",
-      "selecionou": ""
-    },
-    {
-      "id": "c",
-      "alternativa": "Financial Management Plan",
-      "selecionou": ""
-    },
-    {
-      "id": "d",
-      "alternativa": "Deliverables Responsibility Matrix",
-      "selecionou": ""
-    },
-    {
-      "id": "e",
-      "alternativa": "Status Report",
-      "selecionou": ""
-    }
-  ],
-  "respostaCorreta": "c",
-  "acertou": ""
-}
+  },  
   {
-  "id": 3,
-  "pergunta": "What is the biggest part of the TRUST equation?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Credibility",
-      "selecionou": ""
-    },
-    {
-      "id": "b",
-      "alternativa": "Intimacy",
-      "selecionou": ""
-    },
-    {
-      "id": "c",
-      "alternativa": "Self-Orientation",
-      "selecionou": ""
-    },
-    {
-      "id": "d",
-      "alternativa": "Reliability",
-      "selecionou": ""
-    },
-    {
-      "id": "e",
-      "alternativa": "There's a typo in the question (missing option)",
-      "selecionou": ""
-    }
-  ],
-  "respostaCorreta": "d",
-  "acertou": ""
-}
-
-
-
-
-
-
-]
+    "id": 3,
+    "pergunta": "The Client has accountability for the roles and responsibilities that they have signed up for in the contract. What is not a best practice below?",
+    "tipoPergunta": "singleAnswer",
+    "alternativas": [
+      {
+        "id": "a",
+        "alternativa": "Clearly document the Client’s roles and responsibilities in the contract.",
+        "selecionou": ""
+      },
+      {
+        "id": "b",
+        "alternativa": "During the Client Expectations meeting, review the roles and responsibilities with the Client.",
+        "selecionou": ""
+      },
+      {
+        "id": "c",
+        "alternativa": "Review the contract with the client on a monthly basis as a way of being proactive.",
+        "selecionou": ""
+      },
+      {
+        "id": "d",
+        "alternativa": "Be proactive in informing them what is required before it is needed – and impact if not delivered.",
+        "selecionou": ""
+      },
+      {
+        "id": "e",
+        "alternativa": "None of the above. All the above are best practices to ensure client accountability.",
+        "selecionou": ""
+      }
+    ],
+    "respostaCorreta": "e",
+    "acertou": ""
+  },
+  {
+    "id": 4,
+    "pergunta": "Who owns the 'Risk' in a Fixed Fee Contract?",
+    "tipoPergunta": "singleAnswer",
+    "alternativas": [
+      {
+        "id": "a",
+        "alternativa": "Avanade",
+        "selecionou": ""
+      },
+      {
+        "id": "b",
+        "alternativa": "Client",
+        "selecionou": ""
+      },
+      {
+        "id": "c",
+        "alternativa": "Shared Risk",
+        "selecionou": ""
+      },
+      {
+        "id": "d",
+        "alternativa": "No one, Risk are eliminated with proper due diligence",
+        "selecionou": ""
+      }
+    ],
+    "respostaCorreta": "b",
+    "acertou": ""
+  }
+   
+  ]
+  
