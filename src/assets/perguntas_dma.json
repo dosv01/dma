@@ -33,4 +33,43 @@
     "respostaCorreta": "d",
     "acertou": ""
   }
+{
+  "id": 1,
+  "pergunta": "What is not a mandatory work product for System Integration Projects?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Solution Plan",
+      "selecionou": ""
+    },
+    {
+      "id": "b",
+      "alternativa": "Management Plan",
+      "selecionou": ""
+    },
+    {
+      "id": "c",
+      "alternativa": "Financial Management Plan",
+      "selecionou": ""
+    },
+    {
+      "id": "d",
+      "alternativa": "Deliverables Responsibility Matrix",
+      "selecionou": ""
+    },
+    {
+      "id": "e",
+      "alternativa": "Status Report",
+      "selecionou": ""
+    }
+  ],
+  "respostaCorreta": "c",
+  "acertou": ""
+}
+
+
+
+
+
 ]
