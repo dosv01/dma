@@ -67,6 +67,41 @@
   "respostaCorreta": "c",
   "acertou": ""
 }
+  {
+  "id": 3,
+  "pergunta": "What is the biggest part of the TRUST equation?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Credibility",
+      "selecionou": ""
+    },
+    {
+      "id": "b",
+      "alternativa": "Intimacy",
+      "selecionou": ""
+    },
+    {
+      "id": "c",
+      "alternativa": "Self-Orientation",
+      "selecionou": ""
+    },
+    {
+      "id": "d",
+      "alternativa": "Reliability",
+      "selecionou": ""
+    },
+    {
+      "id": "e",
+      "alternativa": "There's a typo in the question (missing option)",
+      "selecionou": ""
+    }
+  ],
+  "respostaCorreta": "d",
+  "acertou": ""
+}
+
 
 
 
