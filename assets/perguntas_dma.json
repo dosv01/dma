@@ -132,7 +132,7 @@
                 "selecionou": ""
             }
         ],
-        "respostaCorreta": "e",
+        "respostaCorreta": "c",
         "acertou": ""
     },
     {
@@ -161,7 +161,7 @@
                 "selecionou": ""
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -211,7 +211,7 @@
                 "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
             }
         ],
-        "respostaCorreta": "c,d",
+        "respostaCorreta": "a,c",
         "acertou": ""
     },
     {
@@ -244,7 +244,7 @@
                 "alternativa": "All are Delivery Lead role"
             }
         ],
-        "respostaCorreta": "f",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -269,7 +269,7 @@
                 "alternativa": "Documented within the ADF"
             }
         ],
-        "respostaCorreta": "d",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -286,7 +286,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "a",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -311,7 +311,7 @@
                 "alternativa": "TEAMS"
             }
         ],
-        "respostaCorreta": "c",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -328,7 +328,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "a",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -362,7 +362,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "a",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -412,7 +412,7 @@
                 "alternativa": "Task is set to baseline"
             }
         ],
-        "respostaCorreta": "a,d",
+        "respostaCorreta": "a,c",
         "acertou": ""
     },
     {
@@ -491,7 +491,7 @@
                 "selecionou": ""
             }
         ],
-        "respostaCorreta": "d",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -591,7 +591,7 @@
                 "alternativa": "None, all are created in the opportunity phase"
             }
         ],
-        "respostaCorreta": "c",
+        "respostaCorreta": "d",
         "acertou": ""
     },
     {
@@ -616,7 +616,7 @@
                 "alternativa": "No one, Risk are eliminated with proper due diligence"
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -666,7 +666,7 @@
                 "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
             }
         ],
-        "respostaCorreta": "c,d",
+        "respostaCorreta": "a,c",
         "acertou": ""
     },
     {
@@ -791,7 +791,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -816,7 +816,7 @@
                 "alternativa": "Underlying capability issues with Avanade resources"
             }
         ],
-        "respostaCorreta": "c,d",
+        "respostaCorreta": "a,c",
         "acertou": ""
     },
     {
@@ -920,7 +920,7 @@
                 "alternativa": "Revenue - Costs = CCI"
             }
         ],
-        "respostaCorreta": "d",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -949,7 +949,7 @@
                 "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Schedule Performance Index (SPI)."
             }
         ],
-        "respostaCorreta": "a,d,e",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -982,7 +982,7 @@
                 "alternativa": "All of the above"
             }
         ],
-        "respostaCorreta": "f",
+        "respostaCorreta": "e",
         "acertou": ""
     },
     {
@@ -1011,7 +1011,7 @@
                 "alternativa": "Support the Delivery team (including Client) escalating risks and issues to get the support needed to be successful"
             }
         ],
-        "respostaCorreta": "d",
+        "respostaCorreta": "c",
         "acertou": ""
     },
     {
@@ -1036,7 +1036,7 @@
                 "alternativa": "Mobilization Starter Kit"
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "d",
         "acertou": ""
     },
     {
@@ -1053,7 +1053,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -1070,7 +1070,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "a",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -1099,7 +1099,7 @@
                 "alternativa": "None of the above. All items above should to be in the onboarding guide."
             }
         ],
-        "respostaCorreta": "e",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -1170,7 +1170,7 @@
                 "alternativa": "False"
             }
         ],
-        "respostaCorreta": "b",
+        "respostaCorreta": "a",
         "acertou": ""
     },
     {
@@ -1224,7 +1224,7 @@
                 "alternativa": "Delivery Excellence"
             }
         ],
-        "respostaCorreta": "e",
+        "respostaCorreta": "d",
         "acertou": ""
     },
     {
@@ -1266,7 +1266,7 @@
                 "alternativa": "ARC and MMR are both required tools for managing CD and Records Management."
             }
         ],
-        "respostaCorreta": "a",
+        "respostaCorreta": "b",
         "acertou": ""
     },
     {
@@ -1291,7 +1291,7 @@
                 "alternativa": "Both statements are true."
             }
         ],
-        "respostaCorreta": "c",
+        "respostaCorreta": "d",
         "acertou": ""
     },
     {
@@ -1366,7 +1366,7 @@
                 "alternativa": "All are statements about Sprint Planning."
             }
         ],
-        "respostaCorreta": "d",
+        "respostaCorreta": "e",
         "acertou": ""
     },
     {
