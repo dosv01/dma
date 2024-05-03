@@ -1,1491 +1,1476 @@
 [
     {
-      "id": 0,
-      "pergunta": "The Delivery Lead should expect to receive the following from the Opportunity Team: (Risk,Solution_Contingency.pdf – pag.13)",
-      "tipoPergunta": "singleAnswer",
-      "alternativas": [
-        {
-          "id": "a",
-          "alternativa": "A high quality risk assessment",
-          "selecionou": ""
-        },
-        {
-          "id": "b",
-          "alternativa": "For each High/Above Normal risk, a mitigation plan with ownership (by named individuals)",
-          "selecionou": ""
-        },
-        {
-          "id": "c",
-          "alternativa": "Solution Contingency assigned for risks that cannot be mitigated prior to contracting",
-          "selecionou": ""
-        },
-        {
-          "id": "d",
-          "alternativa": "All of the above",
-          "selecionou": ""
-        },
-        {
-          "id": "e",
-          "alternativa": "None of the above",
-          "selecionou": ""
-        }
-      ],
-      "respostaCorreta": "d",
-      "acertou": ""
-    },
-  {
-    "id": 1,
-    "pergunta": "What is not a mandatory work product for System Integration Projects?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Solution Plan",
-        "selecionou": ""
-      },
-      {
-        "id": "b",
-        "alternativa": "Management Plan",
-        "selecionou": ""
-      },
-      {
-        "id": "c",
-        "alternativa": "Financial Management Plan",
-        "selecionou": ""
-      },
-      {
-        "id": "d",
-        "alternativa": "Deliverables Responsibility Matrix",
-        "selecionou": ""
-      },
-      {
-        "id": "e",
-        "alternativa": "Status Report",
-        "selecionou": ""
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-    {
-    "id": 2,
-    "pergunta": "What is the biggest part of the TRUST equation?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Credibility",
-        "selecionou": ""
-      },
-      {
-        "id": "b",
-        "alternativa": "Intimacy",
-        "selecionou": ""
-      },
-      {
-        "id": "c",
-        "alternativa": "Self-Orientation",
-        "selecionou": ""
-      },
-      {
-        "id": "d",
-        "alternativa": "Reliability",
-        "selecionou": ""
-      },
-      {
-        "id": "e",
-        "alternativa": "There's a typo in the question (missing option)",
-        "selecionou": ""
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },  
-  {
-    "id": 3,
-    "pergunta": "The Client has accountability for the roles and responsibilities that they have signed up for in the contract. What is not a best practice below?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Clearly document the Client’s roles and responsibilities in the contract.",
-        "selecionou": ""
-      },
-      {
-        "id": "b",
-        "alternativa": "During the Client Expectations meeting, review the roles and responsibilities with the Client.",
-        "selecionou": ""
-      },
-      {
-        "id": "c",
-        "alternativa": "Review the contract with the client on a monthly basis as a way of being proactive.",
-        "selecionou": ""
-      },
-      {
-        "id": "d",
-        "alternativa": "Be proactive in informing them what is required before it is needed – and impact if not delivered.",
-        "selecionou": ""
-      },
-      {
-        "id": "e",
-        "alternativa": "None of the above. All the above are best practices to ensure client accountability.",
-        "selecionou": ""
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-  {
-    "id": 4,
-    "pergunta": "Who owns the 'Risk' in a Fixed Fee Contract?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Avanade",
-        "selecionou": ""
-      },
-      {
-        "id": "b",
-        "alternativa": "Client",
-        "selecionou": ""
-      },
-      {
-        "id": "c",
-        "alternativa": "Shared Risk",
-        "selecionou": ""
-      },
-      {
-        "id": "d",
-        "alternativa": "No one, Risk are eliminated with proper due diligence",
-        "selecionou": ""
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-{
-  "id": 5,
-  "pergunta": "Which is not a characteristic of Waterfall (Choose two):",
-  "tipoPergunta": "multipleChoice",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Plan as you go, flexible to changing requirements and priorities."
+        "id": 0,
+        "pergunta": "The Delivery Lead should expect to receive the following from the Opportunity Team: (Risk,Solution_Contingency.pdf – pag.13)",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "A high quality risk assessment",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "For each High/Above Normal risk, a mitigation plan with ownership (by named individuals)",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Solution Contingency assigned for risks that cannot be mitigated prior to contracting",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "All of the above",
+                "selecionou": ""
+            },
+            {
+                "id": "e",
+                "alternativa": "None of the above",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
     },
     {
-      "id": "b",
-      "alternativa": "Value is delivered at the end with deployment to production."
+        "id": 1,
+        "pergunta": "What is not a mandatory work product for System Integration Projects?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Solution Plan",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "Management Plan",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Financial Management Plan",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "Deliverables Responsibility Matrix",
+                "selecionou": ""
+            },
+            {
+                "id": "e",
+                "alternativa": "Status Report",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
     },
     {
-      "id": "c",
-      "alternativa": "Robust documentation lessens dependency on individuals."
+        "id": 2,
+        "pergunta": "What is the biggest part of the TRUST equation?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Credibility",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "Intimacy",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Self-Orientation",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "Reliability",
+                "selecionou": ""
+            },
+            {
+                "id": "e",
+                "alternativa": "There's a typo in the question (missing option)",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
     },
     {
-      "id": "d",
-      "alternativa": "Focus on working software over comprehensive documentation."
+        "id": 3,
+        "pergunta": "The Client has accountability for the roles and responsibilities that they have signed up for in the contract. What is not a best practice below?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Clearly document the Client’s roles and responsibilities in the contract.",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "During the Client Expectations meeting, review the roles and responsibilities with the Client.",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Review the contract with the client on a monthly basis as a way of being proactive.",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "Be proactive in informing them what is required before it is needed – and impact if not delivered.",
+                "selecionou": ""
+            },
+            {
+                "id": "e",
+                "alternativa": "None of the above. All the above are best practices to ensure client accountability.",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 4,
+        "pergunta": "Who owns the 'Risk' in a Fixed Fee Contract?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Avanade",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "Client",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Shared Risk",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "No one, Risk are eliminated with proper due diligence",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 5,
+        "pergunta": "Which is not a characteristic of Waterfall (Choose two):",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Plan as you go, flexible to changing requirements and priorities."
+            },
+            {
+                "id": "b",
+                "alternativa": "Value is delivered at the end with deployment to production."
+            },
+            {
+                "id": "c",
+                "alternativa": "Robust documentation lessens dependency on individuals."
+            },
+            {
+                "id": "d",
+                "alternativa": "Focus on working software over comprehensive documentation."
+            }
+        ],
+        "respostaCorreta": "a,d",
+        "acertou": ""
+    },
+    {
+        "id": 6,
+        "pergunta": "What is not a true statement about daily scrum (choose two)?",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "An ad hoc meeting used to address issues and risks that arise on a daily basis."
+            },
+            {
+                "id": "b",
+                "alternativa": "It is a time to communicate/call out problems/impediments but not a time to solve problem."
+            },
+            {
+                "id": "c",
+                "alternativa": "Is a status meeting to ensure the project manager is up to date on the status."
+            },
+            {
+                "id": "d",
+                "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
+            }
+        ],
+        "respostaCorreta": "c,d",
+        "acertou": ""
+    },
+    {
+        "id": 7,
+        "pergunta": "What is not a responsibility of the Delivery Lead?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Managing contract commercials"
+            },
+            {
+                "id": "b",
+                "alternativa": "Writing up quarterly quality review"
+            },
+            {
+                "id": "c",
+                "alternativa": "Managing day to day risks and issues"
+            },
+            {
+                "id": "d",
+                "alternativa": "Managing change requests"
+            },
+            {
+                "id": "e",
+                "alternativa": "Managing Vendors"
+            },
+            {
+                "id": "f",
+                "alternativa": "All are Delivery Lead role"
+            }
+        ],
+        "respostaCorreta": "f",
+        "acertou": ""
+    },
+    {
+        "id": 8,
+        "pergunta": "Expectations between Accenture and Avanade are set by:",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "A formal meeting between Accenture and Avanade Delivery Leads during mobilization"
+            },
+            {
+                "id": "b",
+                "alternativa": "An “Estimate to Accenture” (ETA) document"
+            },
+            {
+                "id": "c",
+                "alternativa": "An SP051 document that outlines Avanades responsibilities accepted by Accenture"
+            },
+            {
+                "id": "d",
+                "alternativa": "Documented within the ADF"
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 9,
+        "pergunta": "Solution contingency is a budgeted cost to cover risks that could not be mitigated prior to contracting. It is up to the Delivery Lead to use contingency at his/her descretion up to 20% of Budget. True or False",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 10,
+        "pergunta": "Metrics are captured in which tool?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "MMR"
+            },
+            {
+                "id": "b",
+                "alternativa": "MyWizard"
+            },
+            {
+                "id": "c",
+                "alternativa": "MME"
+            },
+            {
+                "id": "d",
+                "alternativa": "TEAMS"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 11,
+        "pergunta": "The Solution Architect is responsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery. True or False",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 12,
+        "pergunta": "Client Data Protection is the responsibility of the Security Officer. As a delivery lead, I am responsible only for ensuring my team has taken the CDP training. True or False",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 13,
+        "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan. True or False",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 14,
+        "pergunta": "If requirements are not managed in a controlled fashion, which statement describes all of the aspects of a program that could be impacted?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "It impacts the project team delivery, which results in delays and frustration."
+            },
+            {
+                "id": "b",
+                "alternativa": "It impacts the quality of the solution delivered and budget, which results in over-runs."
+            },
+            {
+                "id": "c",
+                "alternativa": "It impacts the schedule and client relationships, which results in the project team's deliverables not being met and overall negative client satisfaction."
+            },
+            {
+                "id": "d",
+                "alternativa": "It impacts the scope, budget, and schedule of a project, which results in unmet client expectations."
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 15,
+        "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Work Type = Fixed Work"
+            },
+            {
+                "id": "b",
+                "alternativa": "Work Type = Fixed Duration"
+            },
+            {
+                "id": "c",
+                "alternativa": "Task is set to auto-schedule"
+            },
+            {
+                "id": "d",
+                "alternativa": "Task is set to baseline"
+            }
+        ],
+        "respostaCorreta": "a,d",
+        "acertou": ""
+    },
+    {
+        "id": 16,
+        "pergunta": "What is not an Agile Event?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Sprint Envision & Prepare"
+            },
+            {
+                "id": "b",
+                "alternativa": "Sprint Planning"
+            },
+            {
+                "id": "c",
+                "alternativa": "Sprint Review"
+            },
+            {
+                "id": "d",
+                "alternativa": "Sprint Retrospective"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 17,
+        "pergunta": "What is the document we use to understand the commitment from ATC for staffing?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "AEP"
+            },
+            {
+                "id": "b",
+                "alternativa": "DSO"
+            },
+            {
+                "id": "c",
+                "alternativa": "DCSO"
+            },
+            {
+                "id": "d",
+                "alternativa": "Abacus"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 18,
+        "pergunta": "What is not an Agile Event?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Sprint Envision &Prepare",
+                "selecionou": ""
+            },
+            {
+                "id": "b",
+                "alternativa": "Sprint Planning",
+                "selecionou": ""
+            },
+            {
+                "id": "c",
+                "alternativa": "Sprint Review",
+                "selecionou": ""
+            },
+            {
+                "id": "d",
+                "alternativa": "Sprint Retrospective",
+                "selecionou": ""
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 19,
+        "pergunta": "The client is a leading financial institution. For the past two years, Avanade, a third-party software vendor and the client who represents the key stakeholders have been working together on a large program that has continued to struggle to finalize designs and gain agreement from the multiple lines of business. Avanade has been asked to lead the re-estimation for the Client. The initial program was estimated using a third-party vendor methodology. In developing an approach to re-planning, what should the Delivery Lead take into account to position the effort for buy-in and success going forward with known stakeholders?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "The re-planning effort should continue to follow the third-party methodology and adjust the delivery effort based on client expectations."
+            },
+            {
+                "id": "b",
+                "alternativa": "The re-planning effort should follow ADF, consider the third-party methodology, and include participation from the key stakeholders in the program and consideration of their success criteria."
+            },
+            {
+                "id": "c",
+                "alternativa": "The Delivery Lead should drive the re-planning effort according to ADF, and then present re-planning effort to the client for acceptance."
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 20,
+        "pergunta": "Who are the stakeholders of a project?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Directly impacted program parties such as third-party vendors, client personnel, Avanade team members, and integration partners"
+            },
+            {
+                "id": "b",
+                "alternativa": "Regulatory bodies, third-party vendors, client customers, and external impacted parties"
+            },
+            {
+                "id": "c",
+                "alternativa": "All parties directly participating in the delivery of the program all parties internal and external that may impact or be impacted by the program"
+            },
+            {
+                "id": "d",
+                "alternativa": "All parties internal and external that may impact or be impacted by the program"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 21,
+        "pergunta": "A project that has been in trouble for the past couple of years. Which process should be in place to manage client expectations?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "The Delivery Lead and the Customer Executive should review and revise the Stakeholder Expectations Management Plan and then review it with the Quality Assurance Director for ongoing management."
+            },
+            {
+                "id": "b",
+                "alternativa": "The Delivery Lead and Quality Assurance Director should review the Stakeholder Expectations Management Plan, amend it based on the replanning effort, and conduct client discussions to reset or re-establish expectations going forward."
+            },
+            {
+                "id": "c",
+                "alternativa": "The Delivery Lead and the Quality Assurance Director should review the Stakeholder Expectations Management Plan, amend based on the re-planning effort, and measure the current client satisfaction."
+            },
+            {
+                "id": "d",
+                "alternativa": "The Quality Assurance Director and the program sponsor should review the Stakeholder Expectations Management Plan and complete the updates based on the re-planning effort."
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 22,
+        "pergunta": "What artefacts are not created in the opportunity phase?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Avanade Estimate & Pricing Model"
+            },
+            {
+                "id": "b",
+                "alternativa": "QA Risk Assessment"
+            },
+            {
+                "id": "c",
+                "alternativa": "Agile Suitability Filter for Agile projects"
+            },
+            {
+                "id": "d",
+                "alternativa": "Client expectations memo"
+            },
+            {
+                "id": "e",
+                "alternativa": "None, all are created in the opportunity phase"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 23,
+        "pergunta": "Who owns the 'Risk' in a Fixed Fee Contract?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Avanade"
+            },
+            {
+                "id": "b",
+                "alternativa": "Client"
+            },
+            {
+                "id": "c",
+                "alternativa": "Shared Risk"
+            },
+            {
+                "id": "d",
+                "alternativa": "No one, Risk are eliminated with proper due diligence"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 24,
+        "pergunta": "Avanade's ADF methodology is based on the Scrum lifecycle. Which one below is a scrum lifecycle?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Starting a project with Envision & Prepare in preparation for the solution development stage."
+            },
+            {
+                "id": "b",
+                "alternativa": "Accept and Release stage where the solution is validated with the stakeholders."
+            },
+            {
+                "id": "c",
+                "alternativa": "Conducting sprint events like sprint planning, daily standup, sprint review, and sprint retrospective."
+            },
+            {
+                "id": "d",
+                "alternativa": "The proven architecture milestone is reached early to ensure a stable and sufficient architecture to satisfy requirements."
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 25,
+        "pergunta": "What is not a true statement about daily scrum (choose two)?",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "An ad hoc meeting used to address issues and risks that arise on a daily basis."
+            },
+            {
+                "id": "b",
+                "alternativa": "It is a time to communicate/call out problems/impediments but not a time to solve problem."
+            },
+            {
+                "id": "c",
+                "alternativa": "Is a status meeting to ensure the project manager is up to date on the status."
+            },
+            {
+                "id": "d",
+                "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
+            }
+        ],
+        "respostaCorreta": "c, d",
+        "acertou": ""
+    },
+    {
+        "id": 26,
+        "pergunta": "Avanade's ADF methodology is based on the Scrum lifecycle. Which 2 below is not a scrum lifecycle?",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Starting a project with Envision & Prepare in preparation for the solution development stage."
+            },
+            {
+                "id": "b",
+                "alternativa": "Accept and Release stage where the solution is validated with the stakeholders."
+            },
+            {
+                "id": "c",
+                "alternativa": "Conducting sprint events like sprint planning and daily standup."
+            },
+            {
+                "id": "d",
+                "alternativa": "Having sprint review, and sprint retrospective at the end of each sprint."
+            }
+        ],
+        "respostaCorreta": "a,b",
+        "acertou": ""
+    },
+    {
+        "id": 27,
+        "pergunta": "What is not a true statement below about Indirect Deals:",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "In an Indirect project, the contract is between Client and Accenture. Avanade & Accenture have a Scope of Work (ASA SoW) agreement on how Avanade will support A"
+            },
+            {
+                "id": "b",
+                "alternativa": "Avanade is responsible for all policies, delivery execution, commercial performance, and quality assurance."
+            },
+            {
+                "id": "c",
+                "alternativa": "Primary client relationship is with Accenture"
+            },
+            {
+                "id": "d",
+                "alternativa": "Delivery lead is likely from Accenture."
+            },
+            {
+                "id": "e",
+                "alternativa": "Accenture methods, processes and tools are used primarily."
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 28,
+        "pergunta": "Which item below is not part of Sprint Planning?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "PBI's are selected from the backlog that aligns with the Sprint Goal, considering priority, risks, and dependencies."
+            },
+            {
+                "id": "b",
+                "alternativa": "Decompose the PBI into tasks that take roughly no more than 8 hours to complete."
+            },
+            {
+                "id": "c",
+                "alternativa": "Estimate the tasks associated with the PBIs. Continue until enough tasks are defined for the Sprint or until the timebox is hit."
+            },
+            {
+                "id": "d",
+                "alternativa": "None. All the above are part of Sprint Planning"
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 29,
+        "pergunta": "What is not in the Top 10 Contract Management Checklist?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Read all the legal documents"
+            },
+            {
+                "id": "b",
+                "alternativa": "Understanding acceptance"
+            },
+            {
+                "id": "c",
+                "alternativa": "Understanding what happens if Avanade doesn't do what they say"
+            },
+            {
+                "id": "d",
+                "alternativa": "Understanding what Avanade committed to?"
+            },
+            {
+                "id": "e",
+                "alternativa": "All are part of the Top 10 Contract Management Checklist"
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 30,
+        "pergunta": "In an 'Indirect contract, Accenture methods, processes and tools are primarily used.",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 31,
+        "pergunta": "What should not be covered by solution contingency? (Select 2 below)",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Client delays in signoffs that impact cost or timing"
+            },
+            {
+                "id": "b",
+                "alternativa": "Solution plan/cost issues due to incorrect estimates/missed work"
+            },
+            {
+                "id": "c",
+                "alternativa": "Taking on new client work"
+            },
+            {
+                "id": "d",
+                "alternativa": "Underlying capability issues with Avanade resources"
+            }
+        ],
+        "respostaCorreta": "c,d",
+        "acertou": ""
+    },
+    {
+        "id": 32,
+        "pergunta": "When re-estimating a project, which financial metric is important in relation to a possible financial correction in Avanade's financial systems?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Direct Non-Payroll (DNP)"
+            },
+            {
+                "id": "b",
+                "alternativa": "Net revenue year-to-date in SAP"
+            },
+            {
+                "id": "c",
+                "alternativa": "AP Estimate At Completion (EAC)"
+            },
+            {
+                "id": "d",
+                "alternativa": "Working capital"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 33,
+        "pergunta": "What can be done to monitor, manage or decrease your capital charges?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Follow up on the client to ensure prompt payment of invoices"
+            },
+            {
+                "id": "b",
+                "alternativa": "If an item is in dispute, get the undisputed part paid so that only the disputed part remains uncollected"
+            },
+            {
+                "id": "c",
+                "alternativa": "Both items above will support decreasing your capital charges"
+            },
+            {
+                "id": "d",
+                "alternativa": "Nothing. Capital charges is just a part of doing business."
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 34,
+        "pergunta": "Delivery Lead is responsible for the following activities in Financial Management:",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "WBS Setup, SAP Contract Setup, and Financial forecasting"
+            },
+            {
+                "id": "b",
+                "alternativa": "Creating Invoice, reviewing invoice, following up on payment"
+            },
+            {
+                "id": "c",
+                "alternativa": "Reviewing actuals, updating forecasts (resource cost, expenses, and contingency), update MyWizard escalation"
+            },
+            {
+                "id": "d",
+                "alternativa": "Monthly review of your financials with the Delivery Executive/DOD."
+            },
+            {
+                "id": "e",
+                "alternativa": "All of the above"
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 35,
+        "pergunta": "Costs = Labor / Loaded Payroll, Subcontractors, Contingency, Includes Out of Pocket Expenses What is the Financial Equation?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Revenue - Costs - Working Capital = CCI"
+            },
+            {
+                "id": "b",
+                "alternativa": "CCI - Costs - Working Capital = Revenue"
+            },
+            {
+                "id": "c",
+                "alternativa": "Price to Client - Costs = Revenue"
+            },
+            {
+                "id": "d",
+                "alternativa": "Revenue - Costs = CCI"
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 36,
+        "pergunta": "For the application development projects, which three metrics at a minimum should be implemented to manage delivery performance?",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "The projects should track the Percent Complete (PC), the Schedule Performance Index (SPI), and the Defect rate."
+            },
+            {
+                "id": "b",
+                "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Estimate at Completion (EAC)."
+            },
+            {
+                "id": "c",
+                "alternativa": "The projects should track the Percent Complete (PC), the Schedule Variation (S), and the Defect rate."
+            },
+            {
+                "id": "d",
+                "alternativa": "The projects should track the Earned Value (EV), the Schedule Variation (S), and the Defect rate."
+            },
+            {
+                "id": "e",
+                "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Schedule Performance Index (SPI)."
+            }
+        ],
+        "respostaCorreta": "a,d, e",
+        "acertou": ""
+    },
+    {
+        "id": 37,
+        "pergunta": "Why are metrics important?",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Earlier detection of issues"
+            },
+            {
+                "id": "b",
+                "alternativa": "Improving delivery outcomes"
+            },
+            {
+                "id": "c",
+                "alternativa": "Improves client satisfaction"
+            },
+            {
+                "id": "d",
+                "alternativa": "Required for all Delivery Projects"
+            },
+            {
+                "id": "e",
+                "alternativa": "A, B, C"
+            },
+            {
+                "id": "f",
+                "alternativa": "All of the above"
+            }
+        ],
+        "respostaCorreta": "f",
+        "acertou": ""
+    },
+    {
+        "id": 38,
+        "pergunta": "What is not the expected outcome of the QAD during a QA Review?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Ensuring alignment between client expectations, contract and financials, solution and capability"
+            },
+            {
+                "id": "b",
+                "alternativa": "Confirming our ability to deliver the solution as planned and meet the client's expectations"
+            },
+            {
+                "id": "c",
+                "alternativa": "Identifying risks, the likely effectiveness of the mitigating actions, and ownership of the mitigating actions"
+            },
+            {
+                "id": "d",
+                "alternativa": "Detailed assessment of each team members performance and rating"
+            },
+            {
+                "id": "e",
+                "alternativa": "Support the Delivery team (including Client) escalating risks and issues to get the support needed to be successful"
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 39,
+        "pergunta": "Which document provides the 30-60-90 day checklist to be successful?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "The 30-60-90 Kickoff"
+            },
+            {
+                "id": "b",
+                "alternativa": "Mobilization Starter Pack"
+            },
+            {
+                "id": "c",
+                "alternativa": "ADF for Mobilization"
+            },
+            {
+                "id": "d",
+                "alternativa": "Mobilization Starter Kit"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 40,
+        "pergunta": "Signoff process is defined in the contract and does not need to be confirmed with the client.",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 41,
+        "pergunta": "The Solution Architect is reponsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery.",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 42,
+        "pergunta": "What information is not in the onboarding guide?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Logistical information e.g. key contacts, location, team structure, WBS, Time & Expense and Travel policy, dress code etc."
+            },
+            {
+                "id": "b",
+                "alternativa": "Any client forms for access, project background (vision, scope, work order, work plan, etc.), role and responsibilities etc."
+            },
+            {
+                "id": "c",
+                "alternativa": "Resources needed on site, e.g. systems, system/physical access, collaboration environments, development tools, etc."
+            },
+            {
+                "id": "d",
+                "alternativa": "Avanade mandatory and engagement-specific training e.g. Client Data Protection (CD), Secure Development, specific technology, role-specific, Client Industry, etc."
+            },
+            {
+                "id": "e",
+                "alternativa": "None of the above. All items above should to be in the onboarding guide."
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 43,
+        "pergunta": "What is not documented in the Signoff process in the SOW?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Description of the Deliverable/Criteria"
+            },
+            {
+                "id": "b",
+                "alternativa": "Who is Signing off, Criteria, ProcessWho is Signing off, Criteria, Process"
+            },
+            {
+                "id": "c",
+                "alternativa": "Duration to give feedback"
+            },
+            {
+                "id": "d",
+                "alternativa": "Who is creating the deliverable"
+            },
+            {
+                "id": "e",
+                "alternativa": "All are documented in the Signoff process."
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 44,
+        "pergunta": "For the past two years, Avanade, a third-party software vendor, and the client who represent the key stakeholders have been online together on a large program to replace all the main line of business (banking) and enterprise human resources (data warehouse) systems. The program is currently struggling to correlate the stipendiary, have on our requirements, intuit scope changes and difficulty obtaining client sign-off. To clarify the requirements and position for successful delivery, which approach would you recommend at this point in the program?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Conference room pilots are conducted to perform a fit gap analysis of the requirements to software functionality."
+            },
+            {
+                "id": "b",
+                "alternativa": "Gather the non-functional requirements and document in a Requirements Traceability matrix for sign-off."
+            },
+            {
+                "id": "c",
+                "alternativa": "Review all designs together with the initial requirements and related processes, and thereafter document the re-baseline requirements and obtain sign-off by the client."
+            },
+            {
+                "id": "d",
+                "alternativa": "The requirements defined by the client are assumed complete, and are the benchmark for the upcoming phases of development completion and testing."
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 45,
+        "pergunta": "Project scope is equal to Contract scope. As a Delivery lead, you will need to understand dependencies and budget independently to influence and track the completion of those activities.",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 46,
+        "pergunta": "What tool is used for internal Avanade Status Reporting?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "MyWizard"
+            },
+            {
+                "id": "b",
+                "alternativa": "cMms"
+            },
+            {
+                "id": "c",
+                "alternativa": "MME and Steering"
+            },
+            {
+                "id": "d",
+                "alternativa": "Azure DevOps and MS Work Plan"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 47,
+        "pergunta": "What is not tracked in MyWizard?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Narrative Status"
+            },
+            {
+                "id": "b",
+                "alternativa": "Project Metrics"
+            },
+            {
+                "id": "c",
+                "alternativa": "Milestone Reporting"
+            },
+            {
+                "id": "d",
+                "alternativa": "CDP Status"
+            },
+            {
+                "id": "e",
+                "alternativa": "Delivery Excellence"
+            }
+        ],
+        "respostaCorreta": "e",
+        "acertou": ""
+    },
+    {
+        "id": 48,
+        "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "True"
+            },
+            {
+                "id": "b",
+                "alternativa": "False"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 49,
+        "pergunta": "What is not a true statement below?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Azure DevOps is the recommended tool for Agile Projects and should only be used for Agile Projects."
+            },
+            {
+                "id": "b",
+                "alternativa": "Avanade leverages Accenture's Hosted Project Server Environment."
+            },
+            {
+                "id": "c",
+                "alternativa": "MME and SAP are the primary tools for managing Financials."
+            },
+            {
+                "id": "d",
+                "alternativa": "ARC and MMR are both required tools for managing CD and Records Management."
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 50,
+        "pergunta": "What is a not a true statement regarding Risks?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Risks (potential issues) are captured in a Risk Log along with its probablity to be realized, potential impact to the project, risk owner, and a mitigation plan. Risks are mitigated in an attempt to reduce the likelihood or impact of the risk."
+            },
+            {
+                "id": "b",
+                "alternativa": "The Risk log is created at the start of the project during the Plannine/Envision & Prepare Stage and reviewed and approved by the QAD during the initial QAD Review."
+            },
+            {
+                "id": "c",
+                "alternativa": "Both statements are not true."
+            },
+            {
+                "id": "d",
+                "alternativa": "Both statements are true."
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 51,
+        "pergunta": "You have a risk that you realize the Client will not be happy about. There is a big steering committee meeting coming up in 2 weeks. What should you not do?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Wait til after the steering committee to bring it up"
+            },
+            {
+                "id": "b",
+                "alternativa": "Be transparent and tell the client"
+            },
+            {
+                "id": "c",
+                "alternativa": "Be prepared with credible mitigation options based on the interests and expectations and be bold informing of the consequences / impact"
+            }
+        ],
+        "respostaCorreta": "a",
+        "acertou": ""
+    },
+    {
+        "id": 52,
+        "pergunta": "When creating your Release Plan during the Envision & Prepare stage, which is a false statement below?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Inputs to a Release Plan should come from the SOW, AEP."
+            },
+            {
+                "id": "b",
+                "alternativa": "A release plan is not needed for an Agile project because that represents a commitment to the Client."
+            },
+            {
+                "id": "c",
+                "alternativa": "Create the Product Backlog and work with the Product Owner to take the initial pass to plan out the work by Sprints/ Release"
+            },
+            {
+                "id": "d",
+                "alternativa": "Azure DevOps has a Release Planning Feature built into the tool."
+            }
+        ],
+        "respostaCorreta": "b",
+        "acertou": ""
+    },
+    {
+        "id": 53,
+        "pergunta": "What is not a true statement about Sprint Planning?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "PO/Development Team; Supported by Scrum Master are involved."
+            },
+            {
+                "id": "b",
+                "alternativa": "PO meets with Development Team to discuss what can be delivered in the Increment resulting from the upcoming Sprint."
+            },
+            {
+                "id": "c",
+                "alternativa": "Developer creates tasks for the PBI."
+            },
+            {
+                "id": "d",
+                "alternativa": "Development team has daily scrums to discuss impediments."
+            },
+            {
+                "id": "e",
+                "alternativa": "All are statements about Sprint Planning."
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 54,
+        "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
+        "tipoPergunta": "multipleChoice",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Work Type = Fixed Work"
+            },
+            {
+                "id": "b",
+                "alternativa": "Work Type = Fixed Duration"
+            },
+            {
+                "id": "c",
+                "alternativa": "Task is set to auto-schedule"
+            },
+            {
+                "id": "d",
+                "alternativa": "Task is set to baseline"
+            }
+        ],
+        "respostasCorretas": "a,c",
+        "acertou": ""
+    },
+    {
+        "id": 55,
+        "pergunta": "What is not a true statement below regarding managing work?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "If you don't have a plan, you are not managing, you are reacting."
+            },
+            {
+                "id": "b",
+                "alternativa": "Having the right tool is critical to being able to manage a plan."
+            },
+            {
+                "id": "c",
+                "alternativa": "Managing work and managing financials are 2 separate unrelated activities."
+            },
+            {
+                "id": "d",
+                "alternativa": "Agile or Waterfall - the same managing work principles apply."
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
+    },
+    {
+        "id": 56,
+        "pergunta": "When would you re-baseline your project?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "Approved Change Request"
+            },
+            {
+                "id": "b",
+                "alternativa": "Approved change in budget/schedule which may be due, but not limited to, the following: increased complexity, delay in requirement/dependency"
+            },
+            {
+                "id": "c",
+                "alternativa": "Incorrect estimate"
+            },
+            {
+                "id": "d",
+                "alternativa": "A and B"
+            },
+            {
+                "id": "e",
+                "alternativa": "All of the Above"
+            }
+        ],
+        "respostaCorreta": "d",
+        "acertou": ""
+    },
+    {
+        "id": 57,
+        "pergunta": "What is the document we use to understand the commitment from AT for staffing?",
+        "tipoPergunta": "singleAnswer",
+        "alternativas": [
+            {
+                "id": "a",
+                "alternativa": "AEP"
+            },
+            {
+                "id": "b",
+                "alternativa": "DSO"
+            },
+            {
+                "id": "c",
+                "alternativa": "DCSO"
+            },
+            {
+                "id": "d",
+                "alternativa": "Abacus"
+            }
+        ],
+        "respostaCorreta": "c",
+        "acertou": ""
     }
-  ],
-  "respostaCorreta": ["a", "d"],
-  "acertou": ""
-},
-  {
-  "id": 6,
-  "pergunta": "What is not a true statement about daily scrum (choose two)?",
-  "tipoPergunta": "multipleChoice",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "An ad hoc meeting used to address issues and risks that arise on a daily basis."
-    },
-    {
-      "id": "b",
-      "alternativa": "It is a time to communicate/call out problems/impediments but not a time to solve problem."
-    },
-    {
-      "id": "c",
-      "alternativa": "Is a status meeting to ensure the project manager is up to date on the status."
-    },
-    {
-      "id": "d",
-      "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
-    }
-  ],
-  "respostaCorreta": ["c", "d"],
-  "acertou": ""
-  },
-  {
-  "id": 7,
-  "pergunta": "What is not a responsibility of the Delivery Lead?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Managing contract commercials"
-    },
-    {
-      "id": "b",
-      "alternativa": "Writing up quarterly quality review"
-    },
-    {
-      "id": "c",
-      "alternativa": "Managing day to day risks and issues"
-    },
-    {
-      "id": "d",
-      "alternativa": "Managing change requests"
-    },
-    {
-      "id": "e",
-      "alternativa": "Managing Vendors"
-    },
-    {
-      "id": "f",
-      "alternativa": "All are Delivery Lead role"
-    }
-  ],
-  "respostaCorreta": "f",
-  "acertou": ""
-},
-  {
-  "id": 8,
-  "pergunta": "Expectations between Accenture and Avanade are set by:",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "A formal meeting between Accenture and Avanade Delivery Leads during mobilization"
-    },
-    {
-      "id": "b",
-      "alternativa": "An “Estimate to Accenture” (ETA) document"
-    },
-    {
-      "id": "c",
-      "alternativa": "An SP051 document that outlines Avanades responsibilities accepted by Accenture"
-    },
-    {
-      "id": "d",
-      "alternativa": "Documented within the ADF"
-    }
-  ],
-  "respostaCorreta": "d",
-  "acertou": ""
-},
-  {
-  "id": 9,
-  "pergunta": "Solution contingency is a budgeted cost to cover risks that could not be mitigated prior to contracting. It is up to the Delivery Lead to use contingency at his/her descretion up to 20% of Budget. True or False",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "True"
-    },
-    {
-      "id": "b",
-      "alternativa": "False"
-    }
-  ],
-  "respostaCorreta": "a",
-  "acertou": ""
-},
-  
-{
-  "id": 10,
-  "pergunta": "Metrics are captured in which tool?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "MMR"
-    },
-    {
-      "id": "b",
-      "alternativa": "MyWizard"
-    },
-    {
-      "id": "c",
-      "alternativa": "MME"
-    },
-    {
-      "id": "d",
-      "alternativa": "TEAMS"
-    }
-  ],
-  "respostaCorreta": "c",
-  "acertou": ""
-},
-{
-  "id": 11,
-  "pergunta": "The Solution Architect is responsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery. True or False",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "True"
-    },
-    {
-      "id": "b",
-      "alternativa": "False"
-    }
-  ],
-  "respostaCorreta": "a",
-  "acertou": ""
-},
-  {
-  "id": 12,
-  "pergunta": "Client Data Protection is the responsibility of the Security Officer. As a delivery lead, I am responsible only for ensuring my team has taken the CDP training. True or False",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "True"
-    },
-    {
-      "id": "b",
-      "alternativa": "False"
-    }
-  ],
-  "respostaCorreta": "b",
-  "acertou": ""
-},
-{
-  "id": 13,
-  "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan. True or False",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "True"
-    },
-    {
-      "id": "b",
-      "alternativa": "False"
-    }
-  ],
-  "respostaCorreta": "a",
-  "acertou": ""
-},
-{
-  "id": 14,
-  "pergunta": "If requirements are not managed in a controlled fashion, which statement describes all of the aspects of a program that could be impacted?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "It impacts the project team delivery, which results in delays and frustration."
-    },
-    {
-      "id": "b",
-      "alternativa": "It impacts the quality of the solution delivered and budget, which results in over-runs."
-    },
-    {
-      "id": "c",
-      "alternativa": "It impacts the schedule and client relationships, which results in the project team's deliverables not being met and overall negative client satisfaction."
-    },
-    {
-      "id": "d",
-      "alternativa": "It impacts the scope, budget, and schedule of a project, which results in unmet client expectations."
-    }
-  ],
-  "respostaCorreta": "d",
-  "acertou": ""
-},
-{
-  "id": 15,
-  "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
-  "tipoPergunta": "multipleChoice",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Work Type = Fixed Work"
-    },
-    {
-      "id": "b",
-      "alternativa": "Work Type = Fixed Duration"
-    },
-    {
-      "id": "c",
-      "alternativa": "Task is set to auto-schedule"
-    },
-    {
-      "id": "d",
-      "alternativa": "Task is set to baseline"
-    }
-  ],
-  "respostaCorreta": ["a", "d"],
-  "acertou": ""
-},
-{
-  "id": 16,
-  "pergunta": "What is not an Agile Event?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "Sprint Envision & Prepare"
-    },
-    {
-      "id": "b",
-      "alternativa": "Sprint Planning"
-    },
-    {
-      "id": "c",
-      "alternativa": "Sprint Review"
-    },
-    {
-      "id": "d",
-      "alternativa": "Sprint Retrospective"
-    }
-  ],
-  "respostaCorreta": "a",
-  "acertou": ""
-},
-{
-  "id": 17,
-  "pergunta": "What is the document we use to understand the commitment from ATC for staffing?",
-  "tipoPergunta": "singleAnswer",
-  "alternativas": [
-    {
-      "id": "a",
-      "alternativa": "AEP"
-    },
-    {
-      "id": "b",
-      "alternativa": "DSO"
-    },
-    {
-      "id": "c",
-      "alternativa": "DCSO"
-    },
-    {
-      "id": "d",
-      "alternativa": "Abacus"
-    }
-  ],
-  "respostaCorreta": "c",
-  "acertou": ""
-},
-{
-    "id": 18,
-    "pergunta": "What is not an Agile Event?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Sprint Envision &Prepare",
-        "selecionou": ""
-      },
-      {
-        "id": "b",
-        "alternativa": "Sprint Planning",
-        "selecionou": ""
-      },
-      {
-        "id": "c",
-        "alternativa": "Sprint Review",
-        "selecionou": ""
-      },
-      {
-        "id": "d",
-        "alternativa": "Sprint Retrospective",
-        "selecionou": ""
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-  {
-    "id": 19,
-    "pergunta": "The client is a leading financial institution. For the past two years, Avanade, a third-party software vendor and the client who represents the key stakeholders have been working together on a large program that has continued to struggle to finalize designs and gain agreement from the multiple lines of business. Avanade has been asked to lead the re-estimation for the Client. The initial program was estimated using a third-party vendor methodology. In developing an approach to re-planning, what should the Delivery Lead take into account to position the effort for buy-in and success going forward with known stakeholders?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "The re-planning effort should continue to follow the third-party methodology and adjust the delivery effort based on client expectations."
-      },
-      {
-        "id": "b",
-        "alternativa": "The re-planning effort should follow ADF, consider the third-party methodology, and include participation from the key stakeholders in the program and consideration of their success criteria."
-      },
-      {
-        "id": "c",
-        "alternativa": "The Delivery Lead should drive the re-planning effort according to ADF, and then present re-planning effort to the client for acceptance."
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 20,
-    "pergunta": "Who are the stakeholders of a project?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Directly impacted program parties such as third-party vendors, client personnel, Avanade team members, and integration partners"
-      },
-      {
-        "id": "b",
-        "alternativa": "Regulatory bodies, third-party vendors, client customers, and external impacted parties"
-      },
-      {
-        "id": "c",
-        "alternativa": "All parties directly participating in the delivery of the program all parties internal and external that may impact or be impacted by the program"
-      },
-      {
-        "id": "d",
-        "alternativa": "All parties internal and external that may impact or be impacted by the program"
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 21,
-    "pergunta": "A project that has been in trouble for the past couple of years. Which process should be in place to manage client expectations?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "The Delivery Lead and the Customer Executive should review and revise the Stakeholder Expectations Management Plan and then review it with the Quality Assurance Director for ongoing management."
-      },
-      {
-        "id": "b",
-        "alternativa": "The Delivery Lead and Quality Assurance Director should review the Stakeholder Expectations Management Plan, amend it based on the replanning effort, and conduct client discussions to reset or re-establish expectations going forward."
-      },
-      {
-        "id": "c",
-        "alternativa": "The Delivery Lead and the Quality Assurance Director should review the Stakeholder Expectations Management Plan, amend based on the re-planning effort, and measure the current client satisfaction."
-      },
-      {
-        "id": "d",
-        "alternativa": "The Quality Assurance Director and the program sponsor should review the Stakeholder Expectations Management Plan and complete the updates based on the re-planning effort."
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 22,
-    "pergunta": "What artefacts are not created in the opportunity phase?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Avanade Estimate & Pricing Model"
-      },
-      {
-        "id": "b",
-        "alternativa": "QA Risk Assessment"
-      },
-      {
-        "id": "c",
-        "alternativa": "Agile Suitability Filter for Agile projects"
-      },
-      {
-        "id": "d",
-        "alternativa": "Client expectations memo"
-      },
-      {
-        "id": "e",
-        "alternativa": "None, all are created in the opportunity phase"
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 23,
-    "pergunta": "Who owns the 'Risk' in a Fixed Fee Contract?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Avanade"
-      },
-      {
-        "id": "b",
-        "alternativa": "Client"
-      },
-      {
-        "id": "c",
-        "alternativa": "Shared Risk"
-      },
-      {
-        "id": "d",
-        "alternativa": "No one, Risk are eliminated with proper due diligence"
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 24,
-    "pergunta": "Avanade's ADF methodology is based on the Scrum lifecycle. Which one below is a scrum lifecycle?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Starting a project with Envision & Prepare in preparation for the solution development stage."
-      },
-      {
-        "id": "b",
-        "alternativa": "Accept and Release stage where the solution is validated with the stakeholders."
-      },
-      {
-        "id": "c",
-        "alternativa": "Conducting sprint events like sprint planning, daily standup, sprint review, and sprint retrospective."
-      },
-      {
-        "id": "d",
-        "alternativa": "The proven architecture milestone is reached early to ensure a stable and sufficient architecture to satisfy requirements."
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 25,
-    "pergunta": "What is not a true statement about daily scrum (choose two)?",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "An ad hoc meeting used to address issues and risks that arise on a daily basis."
-      },
-      {
-        "id": "b",
-        "alternativa": "It is a time to communicate/call out problems/impediments but not a time to solve problem."
-      },
-      {
-        "id": "c",
-        "alternativa": "Is a status meeting to ensure the project manager is up to date on the status."
-      },
-      {
-        "id": "d",
-        "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
-      }
-    ],
-    "respostaCorreta": ["c", "d"],
-    "acertou": ""
-  },
-  {
-    "id": 26,
-    "pergunta": "Avanade's ADF methodology is based on the Scrum lifecycle. Which 2 below is not a scrum lifecycle?",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Starting a project with Envision & Prepare in preparation for the solution development stage."
-      },
-      {
-        "id": "b",
-        "alternativa": "Accept and Release stage where the solution is validated with the stakeholders."
-      },
-      {
-        "id": "c",
-        "alternativa": "Conducting sprint events like sprint planning and daily standup."
-      },
-      {
-        "id": "d",
-        "alternativa": "Having sprint review, and sprint retrospective at the end of each sprint."
-      }
-    ],
-    "respostaCorreta": ["a", "b"],
-    "acertou": ""
-  },
-  {
-    "id": 27,
-    "pergunta": "What is not a true statement below about Indirect Deals:",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "In an Indirect project, the contract is between Client and Accenture. Avanade & Accenture have a Scope of Work (ASA SoW) agreement on how Avanade will support A"
-      },
-      {
-        "id": "b",
-        "alternativa": "Avanade is responsible for all policies, delivery execution, commercial performance, and quality assurance."
-      },
-      {
-        "id": "c",
-        "alternativa": "Primary client relationship is with Accenture"
-      },
-      {
-        "id": "d",
-        "alternativa": "Delivery lead is likely from Accenture."
-      },
-      {
-        "id": "e",
-        "alternativa": "Accenture methods, processes and tools are used primarily."
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 28,
-    "pergunta": "Which item below is not part of Sprint Planning?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "PBI's are selected from the backlog that aligns with the Sprint Goal, considering priority, risks, and dependencies."
-      },
-      {
-        "id": "b",
-        "alternativa": "Decompose the PBI into tasks that take roughly no more than 8 hours to complete."
-      },
-      {
-        "id": "c",
-        "alternativa": "Estimate the tasks associated with the PBIs. Continue until enough tasks are defined for the Sprint or until the timebox is hit."
-      },
-      {
-        "id": "d",
-        "alternativa": "None. All the above are part of Sprint Planning"
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-  {
-    "id": 29,
-    "pergunta": "What is not in the Top 10 Contract Management Checklist?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Read all the legal documents"
-      },
-      {
-        "id": "b",
-        "alternativa": "Understanding acceptance"
-      },
-      {
-        "id": "c",
-        "alternativa": "Understanding what happens if Avanade doesn't do what they say"
-      },
-      {
-        "id": "d",
-        "alternativa": "Understanding what Avanade committed to?"
-      },
-      {
-        "id": "e",
-        "alternativa": "All are part of the Top 10 Contract Management Checklist"
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-  {
-    "id": 30,
-    "pergunta": "In an 'Indirect contract, Accenture methods, processes and tools are primarily used.",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "True"
-      },
-      {
-        "id": "b",
-        "alternativa": "False"
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 31,
-    "pergunta": "What should not be covered by solution contingency? (Select 2 below)",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Client delays in signoffs that impact cost or timing"
-      },
-      {
-        "id": "b",
-        "alternativa": "Solution plan/cost issues due to incorrect estimates/missed work"
-      },
-      {
-        "id": "c",
-        "alternativa": "Taking on new client work"
-      },
-      {
-        "id": "d",
-        "alternativa": "Underlying capability issues with Avanade resources"
-      }
-    ],
-    "respostaCorreta": ["c", "d"],
-    "acertou": ""
-  },
-  {
-    "id": 32,
-    "pergunta": "When re-estimating a project, which financial metric is important in relation to a possible financial correction in Avanade's financial systems?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Direct Non-Payroll (DNP)"
-      },
-      {
-        "id": "b",
-        "alternativa": "Net revenue year-to-date in SAP"
-      },
-      {
-        "id": "c",
-        "alternativa": "AP Estimate At Completion (EAC)"
-      },
-      {
-        "id": "d",
-        "alternativa": "Working capital"
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 33,
-    "pergunta": "What can be done to monitor, manage or decrease your capital charges?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Follow up on the client to ensure prompt payment of invoices"
-      },
-      {
-        "id": "b",
-        "alternativa": "If an item is in dispute, get the undisputed part paid so that only the disputed part remains uncollected"
-      },
-      {
-        "id": "c",
-        "alternativa": "Both items above will support decreasing your capital charges"
-      },
-      {
-        "id": "d",
-        "alternativa": "Nothing. Capital charges is just a part of doing business."
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 34,
-    "pergunta": "Delivery Lead is responsible for the following activities in Financial Management:",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "WBS Setup, SAP Contract Setup, and Financial forecasting"
-      },
-      {
-        "id": "b",
-        "alternativa": "Creating Invoice, reviewing invoice, following up on payment"
-      },
-      {
-        "id": "c",
-        "alternativa": "Reviewing actuals, updating forecasts (resource cost, expenses, and contingency), update MyWizard escalation"
-      },
-      {
-        "id": "d",
-        "alternativa": "Monthly review of your financials with the Delivery Executive/DOD."
-      },
-      {
-        "id": "e",
-        "alternativa": "All of the above"
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-  {
-    "id": 35,
-    "pergunta": "Costs = Labor / Loaded Payroll, Subcontractors, Contingency, Includes Out of Pocket Expenses What is the Financial Equation?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Revenue - Costs - Working Capital = CCI"
-      },
-      {
-        "id": "b",
-        "alternativa": "CCI - Costs - Working Capital = Revenue"
-      },
-      {
-        "id": "c",
-        "alternativa": "Price to Client - Costs = Revenue"
-      },
-      {
-        "id": "d",
-        "alternativa": "Revenue - Costs = CCI"
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-  
-  {
-    "id": 36,
-    "pergunta": "For the application development projects, which three metrics at a minimum should be implemented to manage delivery performance?",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "The projects should track the Percent Complete (PC), the Schedule Performance Index (SPI), and the Defect rate."
-      },
-      {
-        "id": "b",
-        "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Estimate at Completion (EAC)."
-      },
-      {
-        "id": "c",
-        "alternativa": "The projects should track the Percent Complete (PC), the Schedule Variation (S), and the Defect rate."
-      },
-      {
-        "id": "d",
-        "alternativa": "The projects should track the Earned Value (EV), the Schedule Variation (S), and the Defect rate."
-      },
-      {
-        "id": "e",
-        "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Schedule Performance Index (SPI)."
-      }
-    ],
-    "respostaCorreta": ["a", "d", "e"],
-    "acertou": ""
-  },
-  {
-    "id": 37,
-    "pergunta": "Why are metrics important?",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Earlier detection of issues"
-      },
-      {
-        "id": "b",
-        "alternativa": "Improving delivery outcomes"
-      },
-      {
-        "id": "c",
-        "alternativa": "Improves client satisfaction"
-      },
-      {
-        "id": "d",
-        "alternativa": "Required for all Delivery Projects"
-      },
-      {
-        "id": "e",
-        "alternativa": "A, B, C"
-      },
-      {
-        "id": "f",
-        "alternativa": "All of the above"
-      }
-    ],
-    "respostaCorreta": "f",
-    "acertou": ""
-  },
-  {
-    "id": 38,
-    "pergunta": "What is not the expected outcome of the QAD during a QA Review?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Ensuring alignment between client expectations, contract and financials, solution and capability"
-      },
-      {
-        "id": "b",
-        "alternativa": "Confirming our ability to deliver the solution as planned and meet the client's expectations"
-      },
-      {
-        "id": "c",
-        "alternativa": "Identifying risks, the likely effectiveness of the mitigating actions, and ownership of the mitigating actions"
-      },
-      {
-        "id": "d",
-        "alternativa": "Detailed assessment of each team members performance and rating"
-      },
-      {
-        "id": "e",
-        "alternativa": "Support the Delivery team (including Client) escalating risks and issues to get the support needed to be successful"
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-  {
-    "id": 39,
-    "pergunta": "Which document provides the 30-60-90 day checklist to be successful?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "The 30-60-90 Kickoff"
-      },
-      {
-        "id": "b",
-        "alternativa": "Mobilization Starter Pack"
-      },
-      {
-        "id": "c",
-        "alternativa": "ADF for Mobilization"
-      },
-      {
-        "id": "d",
-        "alternativa": "Mobilization Starter Kit"
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 40,
-    "pergunta": "Signoff process is defined in the contract and does not need to be confirmed with the client.",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "True"
-      },
-      {
-        "id": "b",
-        "alternativa": "False"
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-  {
-    "id": 41,
-    "pergunta": "The Solution Architect is reponsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery.",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "True"
-      },
-      {
-        "id": "b",
-        "alternativa": "False"
-      }
-    ],
-    "respostaCorreta": "a",
-    "acertou": ""
-  },
-  {
-    "id": 42,
-    "pergunta": "What information is not in the onboarding guide?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Logistical information e.g. key contacts, location, team structure, WBS, Time & Expense and Travel policy, dress code etc."
-      },
-      {
-        "id": "b",
-        "alternativa": "Any client forms for access, project background (vision, scope, work order, work plan, etc.), role and responsibilities etc."
-      },
-      {
-        "id": "c",
-        "alternativa": "Resources needed on site, e.g. systems, system/physical access, collaboration environments, development tools, etc."
-      },
-      {
-        "id": "d",
-        "alternativa": "Avanade mandatory and engagement-specific training e.g. Client Data Protection (CD), Secure Development, specific technology, role-specific, Client Industry, etc."
-      },
-      {
-        "id": "e",
-        "alternativa": "None of the above. All items above should to be in the onboarding guide."
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-
-  {
-    "id": 43,
-    "pergunta": "What is not documented in the Signoff process in the SOW?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Description of the Deliverable/Criteria"
-      },
-      {
-        "id": "b",
-        "alternativa": "Who is Signing off, Criteria, ProcessWho is Signing off, Criteria, Process"
-      },
-      {
-        "id": "c",
-        "alternativa": "Duration to give feedback"
-      },
-      {
-        "id": "d",
-        "alternativa": "Who is creating the deliverable"
-      },
-      {
-        "id": "e",
-        "alternativa": "All are documented in the Signoff process."
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-  {
-    "id": 44,
-    "pergunta": "For the past two years, Avanade, a third-party software vendor, and the client who represent the key stakeholders have been online together on a large program to replace all the main line of business (banking) and enterprise human resources (data warehouse) systems. The program is currently struggling to correlate the stipendiary, have on our requirements, intuit scope changes and difficulty obtaining client sign-off. To clarify the requirements and position for successful delivery, which approach would you recommend at this point in the program?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Conference room pilots are conducted to perform a fit gap analysis of the requirements to software functionality."
-      },
-      {
-        "id": "b",
-        "alternativa": "Gather the non-functional requirements and document in a Requirements Traceability matrix for sign-off."
-      },
-      {
-        "id": "c",
-        "alternativa": "Review all designs together with the initial requirements and related processes, and thereafter document the re-baseline requirements and obtain sign-off by the client."
-      },
-      {
-        "id": "d",
-        "alternativa": "The requirements defined by the client are assumed complete, and are the benchmark for the upcoming phases of development completion and testing."
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-  {
-    "id": 45,
-    "pergunta": "Project scope is equal to Contract scope. As a Delivery lead, you will need to understand dependencies and budget independently to influence and track the completion of those activities.",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "True"
-      },
-      {
-        "id": "b",
-        "alternativa": "False"
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-
-  {
-    "id": 46,
-    "pergunta": "What tool is used for internal Avanade Status Reporting?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "MyWizard"
-      },
-      {
-        "id": "b",
-        "alternativa": "cMms"
-      },
-      {
-        "id": "c",
-        "alternativa": "MME and Steering"
-      },
-      {
-        "id": "d",
-        "alternativa": "Azure DevOps and MS Work Plan"
-      }
-    ],
-    "respostaCorreta": "a",
-    "acertou": ""
-  },
-
-  {
-    "id": 47,
-    "pergunta": "What is not tracked in MyWizard?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Narrative Status"
-      },
-      {
-        "id": "b",
-        "alternativa": "Project Metrics"
-      },
-      {
-        "id": "c",
-        "alternativa": "Milestone Reporting"
-      },
-      {
-        "id": "d",
-        "alternativa": "CDP Status"
-      },
-      {
-        "id": "e",
-        "alternativa": "Delivery Excellence"
-      }
-    ],
-    "respostaCorreta": "e",
-    "acertou": ""
-  },
-  {
-    "id": 48,
-    "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "True"
-      },
-      {
-        "id": "b",
-        "alternativa": "False"
-      }
-    ],
-    "respostaCorreta": "a",
-    "acertou": ""
-  },
-
-  {
-    "id": 49,
-    "pergunta": "What is not a true statement below?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Azure DevOps is the recommended tool for Agile Projects and should only be used for Agile Projects."
-      },
-      {
-        "id": "b",
-        "alternativa": "Avanade leverages Accenture's Hosted Project Server Environment."
-      },
-      {
-        "id": "c",
-        "alternativa": "MME and SAP are the primary tools for managing Financials."
-      },
-      {
-        "id": "d",
-        "alternativa": "ARC and MMR are both required tools for managing CD and Records Management."
-      }
-    ],
-    "respostaCorreta": "a",
-    "acertou": ""
-  },
-
-  {
-    "id": 50,
-    "pergunta": "What is a not a true statement regarding Risks?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Risks (potential issues) are captured in a Risk Log along with its probablity to be realized, potential impact to the project, risk owner, and a mitigation plan. Risks are mitigated in an attempt to reduce the likelihood or impact of the risk."
-      },
-      {
-        "id": "b",
-        "alternativa": "The Risk log is created at the start of the project during the Plannine/Envision & Prepare Stage and reviewed and approved by the QAD during the initial QAD Review."
-      },
-      {
-        "id": "c",
-        "alternativa": "Both statements are not true."
-      },
-      {
-        "id": "d",
-        "alternativa": "Both statements are true."
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-
-  {
-    "id": 51,
-    "pergunta": "You have a risk that you realize the Client will not be happy about. There is a big steering committee meeting coming up in 2 weeks. What should you not do?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Wait til after the steering committee to bring it up"
-      },
-      {
-        "id": "b",
-        "alternativa": "Be transparent and tell the client"
-      },
-      {
-        "id": "c",
-        "alternativa": "Be prepared with credible mitigation options based on the interests and expectations and be bold informing of the consequences / impact"
-      }
-    ],
-    "respostaCorreta": "a",
-    "acertou": ""
-  },
-
-  {
-    "id": 52,
-    "pergunta": "When creating your Release Plan during the Envision & Prepare stage, which is a false statement below?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Inputs to a Release Plan should come from the SOW, AEP."
-      },
-      {
-        "id": "b",
-        "alternativa": "A release plan is not needed for an Agile project because that represents a commitment to the Client."
-      },
-      {
-        "id": "c",
-        "alternativa": "Create the Product Backlog and work with the Product Owner to take the initial pass to plan out the work by Sprints/ Release"
-      },
-      {
-        "id": "d",
-        "alternativa": "Azure DevOps has a Release Planning Feature built into the tool."
-      }
-    ],
-    "respostaCorreta": "b",
-    "acertou": ""
-  },
-
-  {
-    "id": 53,
-    "pergunta": "What is not a true statement about Sprint Planning?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "PO/Development Team; Supported by Scrum Master are involved."
-      },
-      {
-        "id": "b",
-        "alternativa": "PO meets with Development Team to discuss what can be delivered in the Increment resulting from the upcoming Sprint."
-      },
-      {
-        "id": "c",
-        "alternativa": "Developer creates tasks for the PBI."
-      },
-      {
-        "id": "d",
-        "alternativa": "Development team has daily scrums to discuss impediments."
-      },
-      {
-        "id": "e",
-        "alternativa": "All are statements about Sprint Planning."
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-
-  {
-    "id": 54,
-    "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
-    "tipoPergunta": "multipleChoice",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Work Type = Fixed Work"
-      },
-      {
-        "id": "b",
-        "alternativa": "Work Type = Fixed Duration"
-      },
-      {
-        "id": "c",
-        "alternativa": "Task is set to auto-schedule"
-      },
-      {
-        "id": "d",
-        "alternativa": "Task is set to baseline"
-      }
-    ],
-    "respostasCorretas": ["a", "c"],
-    "acertou": ""
-  },
-  {
-    "id": 55,
-    "pergunta": "What is not a true statement below regarding managing work?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "If you don't have a plan, you are not managing, you are reacting."
-      },
-      {
-        "id": "b",
-        "alternativa": "Having the right tool is critical to being able to manage a plan."
-      },
-      {
-        "id": "c",
-        "alternativa": "Managing work and managing financials are 2 separate unrelated activities."
-      },
-      {
-        "id": "d",
-        "alternativa": "Agile or Waterfall - the same managing work principles apply."
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  },
-
-  {
-    "id": 56,
-    "pergunta": "When would you re-baseline your project?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "Approved Change Request"
-      },
-      {
-        "id": "b",
-        "alternativa": "Approved change in budget/schedule which may be due, but not limited to, the following: increased complexity, delay in requirement/dependency"
-      },
-      {
-        "id": "c",
-        "alternativa": "Incorrect estimate"
-      },
-      {
-        "id": "d",
-        "alternativa": "A and B"
-      },
-      {
-        "id": "e",
-        "alternativa": "All of the Above"
-      }
-    ],
-    "respostaCorreta": "d",
-    "acertou": ""
-  },
-
-  {
-    "id": 57,
-    "pergunta": "What is the document we use to understand the commitment from AT for staffing?",
-    "tipoPergunta": "singleAnswer",
-    "alternativas": [
-      {
-        "id": "a",
-        "alternativa": "AEP"
-      },
-      {
-        "id": "b",
-        "alternativa": "DSO"
-      },
-      {
-        "id": "c",
-        "alternativa": "DCSO"
-      },
-      {
-        "id": "d",
-        "alternativa": "Abacus"
-      }
-    ],
-    "respostaCorreta": "c",
-    "acertou": ""
-  }
- 
-
 ]
