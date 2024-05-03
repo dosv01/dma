@@ -165,7 +165,7 @@
     "acertou": ""
   },
 {
-  "id": 3,
+  "id": 5,
   "pergunta": "Which is not a characteristic of Waterfall (Choose two):",
   "tipoPergunta": "multipleChoice",
   "alternativas": [
@@ -190,7 +190,7 @@
   "acertou": ""
 },
   {
-  "id": 3,
+  "id": 6,
   "pergunta": "What is not a true statement about daily scrum (choose two)?",
   "tipoPergunta": "multipleChoice",
   "alternativas": [
@@ -215,7 +215,7 @@
   "acertou": ""
   },
   {
-  "id": 1,
+  "id": 7,
   "pergunta": "What is not a responsibility of the Delivery Lead?",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -248,7 +248,7 @@
   "acertou": ""
 },
   {
-  "id": 1,
+  "id": 8,
   "pergunta": "Expectations between Accenture and Avanade are set by:",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -273,7 +273,7 @@
   "acertou": ""
 },
   {
-  "id": 8,
+  "id": 9,
   "pergunta": "Solution contingency is a budgeted cost to cover risks that could not be mitigated prior to contracting. It is up to the Delivery Lead to use contingency at his/her descretion up to 20% of Budget. True or False",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -291,7 +291,7 @@
 },
   
 {
-  "id": 7,
+  "id": 10,
   "pergunta": "Metrics are captured in which tool?",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -316,7 +316,7 @@
   "acertou": ""
 },
 {
-  "id": 2,
+  "id": 11,
   "pergunta": "The Solution Architect is responsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery. True or False",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -333,7 +333,7 @@
   "acertou": ""
 },
   {
-  "id": 2,
+  "id": 12,
   "pergunta": "Client Data Protection is the responsibility of the Security Officer. As a delivery lead, I am responsible only for ensuring my team has taken the CDP training. True or False",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -350,7 +350,7 @@
   "acertou": ""
 },
 {
-  "id": 4,
+  "id": 13,
   "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan. True or False",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -367,7 +367,7 @@
   "acertou": ""
 },
 {
-  "id": 3,
+  "id": 14,
   "pergunta": "If requirements are not managed in a controlled fashion, which statement describes all of the aspects of a program that could be impacted?",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -392,7 +392,7 @@
   "acertou": ""
 },
 {
-  "id": 5,
+  "id": 15,
   "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
   "tipoPergunta": "multipleChoice",
   "alternativas": [
@@ -417,7 +417,7 @@
   "acertou": ""
 },
 {
-  "id": 5,
+  "id": 16,
   "pergunta": "What is not an Agile Event?",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -442,7 +442,7 @@
   "acertou": ""
 },
 {
-  "id": 4,
+  "id": 17,
   "pergunta": "What is the document we use to understand the commitment from ATC for staffing?",
   "tipoPergunta": "singleAnswer",
   "alternativas": [
@@ -466,12 +466,4 @@
   "respostaCorreta": "c",
   "acertou": ""
 }
-  
-
-
-  
-
-
-
-  
 ]
