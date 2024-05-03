@@ -666,7 +666,7 @@
                 "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
             }
         ],
-        "respostaCorreta": "c, d",
+        "respostaCorreta": "c,d",
         "acertou": ""
     },
     {
@@ -949,7 +949,7 @@
                 "alternativa": "The projects should track the Earned Value (EV), the Cost Performance Index (CPI), and the Schedule Performance Index (SPI)."
             }
         ],
-        "respostaCorreta": "a,d, e",
+        "respostaCorreta": "a,d,e",
         "acertou": ""
     },
     {
@@ -1391,7 +1391,7 @@
                 "alternativa": "Task is set to baseline"
             }
         ],
-        "respostasCorretas": "a,c",
+        "respostaCorreta": "a,c",
         "acertou": ""
     },
     {
