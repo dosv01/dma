@@ -163,5 +163,316 @@
     ],
     "respostaCorreta": "b",
     "acertou": ""
-  }
+  },
+{
+  "id": 3,
+  "pergunta": "Which is not a characteristic of Waterfall (Choose two):",
+  "tipoPergunta": "multipleChoice",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Plan as you go, flexible to changing requirements and priorities."
+    },
+    {
+      "id": "b",
+      "alternativa": "Value is delivered at the end with deployment to production."
+    },
+    {
+      "id": "c",
+      "alternativa": "Robust documentation lessens dependency on individuals."
+    },
+    {
+      "id": "d",
+      "alternativa": "Focus on working software over comprehensive documentation."
+    }
+  ],
+  "respostaCorreta": ["a", "d"],
+  "acertou": ""
+},
+  {
+  "id": 3,
+  "pergunta": "What is not a true statement about daily scrum (choose two)?",
+  "tipoPergunta": "multipleChoice",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "An ad hoc meeting used to address issues and risks that arise on a daily basis."
+    },
+    {
+      "id": "b",
+      "alternativa": "It is a time to communicate/call out problems/impediments but not a time to solve problem."
+    },
+    {
+      "id": "c",
+      "alternativa": "Is a status meeting to ensure the project manager is up to date on the status."
+    },
+    {
+      "id": "d",
+      "alternativa": "A daily scrum is timeboxed regardless of the sprint length."
+    }
+  ],
+  "respostaCorreta": ["c", "d"],
+  "acertou": ""
+  },
+  {
+  "id": 1,
+  "pergunta": "What is not a responsibility of the Delivery Lead?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Managing contract commercials"
+    },
+    {
+      "id": "b",
+      "alternativa": "Writing up quarterly quality review"
+    },
+    {
+      "id": "c",
+      "alternativa": "Managing day to day risks and issues"
+    },
+    {
+      "id": "d",
+      "alternativa": "Managing change requests"
+    },
+    {
+      "id": "e",
+      "alternativa": "Managing Vendors"
+    },
+    {
+      "id": "f",
+      "alternativa": "All are Delivery Lead role"
+    }
+  ],
+  "respostaCorreta": "f",
+  "acertou": ""
+},
+  {
+  "id": 1,
+  "pergunta": "Expectations between Accenture and Avanade are set by:",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "A formal meeting between Accenture and Avanade Delivery Leads during mobilization"
+    },
+    {
+      "id": "b",
+      "alternativa": "An “Estimate to Accenture” (ETA) document"
+    },
+    {
+      "id": "c",
+      "alternativa": "An SP051 document that outlines Avanades responsibilities accepted by Accenture"
+    },
+    {
+      "id": "d",
+      "alternativa": "Documented within the ADF"
+    }
+  ],
+  "respostaCorreta": "d",
+  "acertou": ""
+},
+  {
+  "id": 8,
+  "pergunta": "Solution contingency is a budgeted cost to cover risks that could not be mitigated prior to contracting. It is up to the Delivery Lead to use contingency at his/her descretion up to 20% of Budget. True or False",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "True"
+    },
+    {
+      "id": "b",
+      "alternativa": "False"
+    }
+  ],
+  "respostaCorreta": "a",
+  "acertou": ""
+},
+  
+{
+  "id": 7,
+  "pergunta": "Metrics are captured in which tool?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "MMR"
+    },
+    {
+      "id": "b",
+      "alternativa": "MyWizard"
+    },
+    {
+      "id": "c",
+      "alternativa": "MME"
+    },
+    {
+      "id": "d",
+      "alternativa": "TEAMS"
+    }
+  ],
+  "respostaCorreta": "c",
+  "acertou": ""
+},
+{
+  "id": 2,
+  "pergunta": "The Solution Architect is responsible for handing over the Mobilization Starter Kit completed as transition into Project Delivery. True or False",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "True"
+    },
+    {
+      "id": "b",
+      "alternativa": "False"
+    }
+  ],
+  "respostaCorreta": "a",
+  "acertou": ""
+},
+  {
+  "id": 2,
+  "pergunta": "Client Data Protection is the responsibility of the Security Officer. As a delivery lead, I am responsible only for ensuring my team has taken the CDP training. True or False",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "True"
+    },
+    {
+      "id": "b",
+      "alternativa": "False"
+    }
+  ],
+  "respostaCorreta": "b",
+  "acertou": ""
+},
+{
+  "id": 4,
+  "pergunta": "Issues log will have the following information: Title, Owner, Impact, Probability and Action Plan. True or False",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "True"
+    },
+    {
+      "id": "b",
+      "alternativa": "False"
+    }
+  ],
+  "respostaCorreta": "a",
+  "acertou": ""
+},
+{
+  "id": 3,
+  "pergunta": "If requirements are not managed in a controlled fashion, which statement describes all of the aspects of a program that could be impacted?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "It impacts the project team delivery, which results in delays and frustration."
+    },
+    {
+      "id": "b",
+      "alternativa": "It impacts the quality of the solution delivered and budget, which results in over-runs."
+    },
+    {
+      "id": "c",
+      "alternativa": "It impacts the schedule and client relationships, which results in the project team's deliverables not being met and overall negative client satisfaction."
+    },
+    {
+      "id": "d",
+      "alternativa": "It impacts the scope, budget, and schedule of a project, which results in unmet client expectations."
+    }
+  ],
+  "respostaCorreta": "d",
+  "acertou": ""
+},
+{
+  "id": 5,
+  "pergunta": "What are 2 settings you should set prior to starting to creating your WBS? (Select 2)",
+  "tipoPergunta": "multipleChoice",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Work Type = Fixed Work"
+    },
+    {
+      "id": "b",
+      "alternativa": "Work Type = Fixed Duration"
+    },
+    {
+      "id": "c",
+      "alternativa": "Task is set to auto-schedule"
+    },
+    {
+      "id": "d",
+      "alternativa": "Task is set to baseline"
+    }
+  ],
+  "respostaCorreta": ["a", "d"],
+  "acertou": ""
+},
+{
+  "id": 5,
+  "pergunta": "What is not an Agile Event?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "Sprint Envision & Prepare"
+    },
+    {
+      "id": "b",
+      "alternativa": "Sprint Planning"
+    },
+    {
+      "id": "c",
+      "alternativa": "Sprint Review"
+    },
+    {
+      "id": "d",
+      "alternativa": "Sprint Retrospective"
+    }
+  ],
+  "respostaCorreta": "a",
+  "acertou": ""
+},
+{
+  "id": 4,
+  "pergunta": "What is the document we use to understand the commitment from ATC for staffing?",
+  "tipoPergunta": "singleAnswer",
+  "alternativas": [
+    {
+      "id": "a",
+      "alternativa": "AEP"
+    },
+    {
+      "id": "b",
+      "alternativa": "DSO"
+    },
+    {
+      "id": "c",
+      "alternativa": "DCSO"
+    },
+    {
+      "id": "d",
+      "alternativa": "Abacus"
+    }
+  ],
+  "respostaCorreta": "c",
+  "acertou": ""
+},
+  
+  
+
+
+  
+
+
+
+  
 ]
